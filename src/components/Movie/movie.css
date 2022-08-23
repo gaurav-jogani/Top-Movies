@@ -1,0 +1,129 @@
+.movieMain{
+
+}
+
+.movieTitle {
+    display: flex;
+    box-sizing: border-box;
+    height : 14.93vw;
+    background-color: #746A64;
+    color: white;
+    font-size: 5.33vw;
+    padding-top : 4.26vw;
+    padding-left: 4.26vw;
+}
+
+.movieImg {
+    width: 30.66vw;
+    height: 45.33vw;
+    margin-top: 6.4vw;
+    margin-left: 6.4vw;
+}
+
+.movieImg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+.movieDesc {
+    display: flex;
+   
+}
+
+.addFvtBtn{
+    width: 52.26vw;
+    height: 14.93vw;
+    background-color: #746A64;
+    color : white;
+    font-size: 4.26vw;
+    margin-left : 4.2vw;
+    margin-top: 7.35vw;
+}
+
+.movieYear {
+    margin-top: 5vw;
+    font-size: 5.3vw;
+    margin-left : 4.2vw;
+    
+}
+
+.movieDuration {
+    margin-top: 0.5vw;
+    font-size: 3.7vw;
+    margin-left : 4.2vw;
+   font-style: italic;
+}
+
+.movieRating{
+    margin-top: 6.9vw;
+    font-size: 3.7vw;
+    margin-left : 4.2vw;
+}
+
+.movieOvrVw {
+    width: 87.2vw;
+    font-size: 3.7vw;
+    line-height: 6.4vw;
+    color : #757575;
+    margin: 0 auto;
+    margin-top: 6.4vw;
+    text-align: left;
+}
+
+.movieTrl{
+    font-size: 3.73vw;
+    margin-top: 6.4vw;
+    margin-left : 6.4vw;
+    line-height: 3.66vw;
+    color : #757575;
+}
+
+.movieTrl img {
+    width: 87.2vw;
+    height: 0.5vw;
+}
+
+.movieTrailers{
+    display: flex;
+    justify-content: center;
+    margin-top: 4.2vw;
+    text-decoration : none;
+}
+
+.trailerBox{
+    width: 87.2vw;
+    height: 16vw;
+    background-color: #FAFAFA;
+    
+}
+
+.trailerBox img {
+    width: 5.3vw;
+    height: 5.3vw;
+}
+
+a {
+    text-decoration: none;
+}
+.trailerBox p{
+    font-size: 3.73vw;
+    color: #757575;
+    margin-left:5.3vw;
+    overflow-x: hidden;
+}
+
+.trailerBoxOuter {
+    margin-left:5.3vw;
+
+    margin-top: 5.3vw;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.otrBox{
+    padding-bottom: 2.5vw;
+}

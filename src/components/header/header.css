@@ -1,0 +1,43 @@
+.hdrMain {
+    width: 100vw;
+    height: 17vw;
+    color: white;
+    display: flex;
+    align-items: 'center';
+    justify-content:space-between;
+    background-color: #212121;
+    /* position: fixed; */
+    
+}
+
+.hdrMain span {
+    font-size: 5.33vw;
+    margin-left: 5.33vw;
+    margin-top: 5.33vw;
+}
+
+.backBTn {
+    width: 3.73vw;
+    height: 3.73vw;
+    margin-top: 7.54vw;
+    margin-left: 6.66vw;
+}
+
+.dot3 {
+    margin-right: 5.33vw;
+    width: 3.53vw;
+    height: 4.26vw;
+    margin-top: 7.54vw;
+}
+
+.drpdwn {
+    display: flex;
+    position: absolute;
+    z-index: 100;
+    right: 5vw;
+    top:17vw;
+    background-color: #212121;
+    width: 30vw;
+    justify-content: center;
+    line-height: 8vw;
+}
