@@ -8,7 +8,7 @@ export const Homepage = () => {
 
     let [movieList, setMovieList] = useState([]);
     let [loading, setLoading] = useState(true);
-    const navigate = useNavigate();
+    const navigate = useNavigate(); 
     useEffect(() => {
 
         // Fetching the list of movies to show on homepage
