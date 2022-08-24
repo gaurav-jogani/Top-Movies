@@ -1,6 +1,6 @@
 #To run this application, follow these steps - 
 
-Step 1 - Clone this repo into your system
+Step 1 - Clone this repo into your system - master branch
 Step 2 - In the project directory run this command - npm i for windows (For Ubuntu - sudo npm i)
 Step 3 - Create a .env file in project directory and add REACT_APP_MOVIEDB_API_KEY = <YOUR MOVIEDB API KEY HERE>
 Step 4 - Do npm start
