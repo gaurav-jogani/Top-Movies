@@ -2,7 +2,6 @@ import { Routes, Route, Navigate } from 'react-router-dom';
 
 import './App.css';
 import { Homepage } from './components/homepage/homepage';
-import { Header } from './components/header/header';
 import { Movie } from './components/Movie/movie';
 
 function App() {
