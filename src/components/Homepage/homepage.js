@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { get } from 'axios';
 
-import { Header } from '../Header/header';
+import { Header } from '../header/header';
 
 export const Homepage = () => {
 
