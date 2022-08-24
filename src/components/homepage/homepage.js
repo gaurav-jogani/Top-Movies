@@ -30,7 +30,7 @@ export const Homepage = () => {
     }
 
     return (
-        <>
+        <div data-testid='homepage'>
             <Header page='home' />
             <div className='homeMain'>
 
@@ -45,6 +45,6 @@ export const Homepage = () => {
                 }
 
             </div>
-        </>
+        </div>
     )
 }

@@ -24,7 +24,7 @@ export const Movie = () => {
 
 
     return (
-        <>
+        <div data-testid='movie'>
             <Header page='movie' />
             {movie.id &&
                 <div className='movieMain'>
@@ -81,6 +81,6 @@ export const Movie = () => {
                     </div>
                 </div>
             }
-        </>
+        </div>
     )
 }
