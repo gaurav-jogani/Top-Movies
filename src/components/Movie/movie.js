@@ -1,5 +1,5 @@
 import { useLocation, useParams } from 'react-router-dom';
-import { Header } from '../header/header';
+import { Header } from '../Header/header';
 import borderLine from '../../assests/icons/Border.svg';
 import playBtn from '../../assests/icons/Play.svg';
 import './movie.css';

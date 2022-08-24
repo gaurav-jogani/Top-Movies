@@ -1,7 +1,7 @@
 import { Routes, Route, Navigate } from 'react-router-dom';
 
 import './App.css';
-import { Homepage } from './components/homepage/homepage';
+import { Homepage } from './components/Homepage/homepage';
 import { Movie } from './components/Movie/movie';
 
 function App() {
